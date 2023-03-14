@@ -1,0 +1,6 @@
+body{background-image:url(peakpx\ \(5\).jpg);background-size: cover;}
+h1{color: azure;}
+li{color: aqua;}
+.centrar-listas{
+    text-align: left;display: inline-block;
+}
